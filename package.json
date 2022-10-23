@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  },
+  "type": "module",
+  "name": "programiz_javascript",
+  "version": "1.0.0",
+  "main": "Asynchronous_1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
